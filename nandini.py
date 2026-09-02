@@ -1,3 +1,3 @@
-a=20
-b=20
+a=30
+b=30
 print("sum of two num ",a+b)
